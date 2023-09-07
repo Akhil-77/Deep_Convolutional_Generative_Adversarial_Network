@@ -10,4 +10,5 @@ During training, the generator progressively becomes better at creating images t
 
 This notebook demonstrates this process on the CelebFaces Attributes (CelebA) Dataset available on Kaggle. The following animation shows a series of images produced by the generator as it was trained for 50 epochs. The images begin as random noise, and increasingly resemble human faces over time.
 
+![ezgif-3-7cc932ddeb](https://github.com/Akhil-77/Deep_Convolutional_Generative_Adversarial_Network/assets/89073369/77e2727d-bff2-4244-888c-d7e9f0e43d0d)
 
